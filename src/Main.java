@@ -1,13 +1,6 @@
 import models.Cars;
-
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-//        Scanner enter = new Scanner(System.in);
-//        System.out.print("Enter tipul de auto: ");
-//        String car3 = enter.nextLine();
-//        System.out.println("Tipul de auto  "+ car3);
         Cars car1 = new Cars();
         car1.setTipAuto("Truck");
         car1.setMarca("Opel");
