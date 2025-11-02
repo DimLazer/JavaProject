@@ -18,7 +18,6 @@ public class Transport {
         this.licensePlate = licensePlate;
         this.seats = seats;
     }
-    // public Transport
 
     public String getLicensePlate() {
         return licensePlate;
