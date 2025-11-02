@@ -8,5 +8,6 @@ public class Main {
         System.out.println(car1.getTipAuto() + "  " + car1.getMarca());
         Cars car2 = new Cars("Bus", "BMW", "Yelow");
         System.out.println(car2.getTipAuto() + "  " + car2.getMarca() + " " + car2.getColor());
+        System.out.println(car2.getTipAuto() + "  " + car2.getMarca() + " " + car2.getColor());
     }
 }
